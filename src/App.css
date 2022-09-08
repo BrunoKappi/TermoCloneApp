@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Mitr:wght@400;700&display=swap');
+
+*{
+    font-family: 'Mitr', sans-serif;
+}
+
+
+body{ 
+    background-color: rgb(110, 92, 98);
+}
+
+.App{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Grade{
+    
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.titulo{
+    color: aliceblue;
+}
+
+.Jogar{
+    margin: 30px;
+    background-color:rgb(76, 67, 71) ;
+    font-size: 20px;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    color: aliceblue;
+    cursor: pointer;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+
+.Erro{
+    touch-action: manipulation;
+    outline: none;   
+    z-index: 20000;
+    background-color: #009AFE;
+    font-weight: 400;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    box-sizing: border-box;
+    font-size: 2.5vh;
+    margin: 10px;
+    margin-top: 0;
+    padding: 0.4em 1.5em;
+    border-radius: 0.4em;
+    color:aliceblue;
+    width:300px;
+}
