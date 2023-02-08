@@ -1,41 +1,50 @@
-<h2 align="center">Termo Clone</h2>
+<h1 align="center" id="title">Notes App</h1>
 
-___
+<p align="center"><img src="https://user-images.githubusercontent.com/28691555/217544258-8f43b759-f9e8-4e43-a5e2-68740186568a.png"></p>
 
+<p id="description">This project is an attempt to create a clone of termio using ReactJs
 
-
-
-<h3 align="center">
-  <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
-  <a href="#interrobang-motivo">Motivo</a>&nbsp;|&nbsp;
-  <a href="#seedling-requisitos-mínimos">Requisitos</a>&nbsp;|&nbsp;
-  <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;|&nbsp;
-</h3>
-
-___
-
-<img src="https://readme-maker.herokuapp.com/uploads/28557e5a86d64f9f-Screenshot_2.png" width="1200">
-<img src="https://readme-maker.herokuapp.com/uploads/8106eba37400be87-Screenshot_3.png" width="1200">
-
-## :information_source: Sobre
-
-Aplicação clone do Termo.io
-
-## :interrobang: Motivo
+</p>
 
 
+### :point_right: [DEMO](https://termoapp.netlify.app/) :rocket:
 
-## :seedling: Requisitos Mínimos
+:star: Designed by
+[Bruno Kappi](https://www.instagram.com/brunokappi/)
+
+<h2>Project Screenshots:</h2>
+
+<img src="https://user-images.githubusercontent.com/28691555/217544258-8f43b759-f9e8-4e43-a5e2-68740186568a.png" alt="project-screenshot" height="600/">
+
+<img src="https://user-images.githubusercontent.com/28691555/217544359-625917f9-2c6e-4214-a117-e6b687e4d7b0.png" alt="project-screenshot" width="" height="600/">
+
+<img src="https://user-images.githubusercontent.com/28691555/217544419-948c6146-9470-43d7-9af4-7f90f08df862.png" alt="project-screenshot" width="" height="600/">
+
+<h2>🧐 Features</h2>
+
+ 
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   ReactJs
+*   HTML
+*   CSS
+*   Javascript
+*   React Hooks.
+*   Functional Components.
 
 
+## Installation
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app)
+and requires [NPM](https://docs.npmjs.com/) to be installed.
 
-## :rocket: Tecnologias Utilizadas 
+    git clone https://github.com/BrunoKappi/TermoCloneApp.git
+    cd NotesApp
+    npm install
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias
+## Usage
+You need to use your own Firebase API for the App to work  
 
-- NodejS
-- ReactJS
-- Javascript
-- HTML
-- CSS
-
+    npm start
